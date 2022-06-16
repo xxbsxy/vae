@@ -1,0 +1,7 @@
+
+.el-card__body{
+	padding: 0 !important;
+}
+.el-tabs__nav-wrap::after{
+	width: 0 !important;
+}
