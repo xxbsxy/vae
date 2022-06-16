@@ -33,7 +33,6 @@
 <script setup>
 
 import Header from './components/Header.vue'
-import Header from './components/Header.vue'
 import Aside from './components/Aside.vue'
 import Footer from './components/Footer.vue'
 </script>
